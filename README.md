@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @khakizuhaib
+- 👋 Hi, I’m Zuhaib!
 - 👀 I’m interested in bringing value by designing and developing ML systems
 - 🌱 I’m currently learning productionizing LLM apps
 - 💞️ I’m looking to collaborate on developing and experimenting with SOTA LLMs and RAG systems
